@@ -1,5 +1,15 @@
+<!--
+ * @Author: likecanyon 1174578375@qq.com
+ * @Date: 2024-06-07 10:55:38
+ * @LastEditors: likecanyon 1174578375@qq.com
+ * @LastEditTime: 2024-11-29 21:07:20
+ * @FilePath: \undefinedd:\Workspace\LearningDeepLearning\deep_learning_from_scratch_python\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # 深度学习入门
-
+本仓库从https://github.com/ZhangXinNan/deep_learning_from_scratch过来
+解决了MNIST数据集无法访问的问题。
+博客https://blog.csdn.net/likecayon/article/details/139603148?spm=1001.2014.3001.5501记录具体细节。
 
 
 ## 文件结构
@@ -42,12 +52,4 @@ $ python train_nueralnet.py
 本源代码使用[MIT许可协议](http://www.opensource.org/licenses/MIT)。
 无论是否为商业行为，均可自由使用。
 
-## 勘误表
 
-本书的勘误信息在以下网址中公开。读者可以在以下网址中查看和提交勘误。
-
-http://www.ituring.com.cn/book/1921
-
-
-# deep_learning_from_scratch_python
-# deep_learning_from_scratch_python
