@@ -138,7 +138,7 @@ import os
 import numpy as np
 
 # Specify your local dataset directory
-dataset_dir = 'D:\\Workspace\\LearningDeepLearning\\deep_learning_from_scratch\\dataset'
+dataset_dir = './dataset'
 save_file = os.path.join(dataset_dir, "mnist.pkl")
 
 key_file = {
