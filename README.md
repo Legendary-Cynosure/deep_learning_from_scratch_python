@@ -2,14 +2,14 @@
  * @Author: likecanyon 1174578375@qq.com
  * @Date: 2024-06-07 10:55:38
  * @LastEditors: likecanyon 1174578375@qq.com
- * @LastEditTime: 2024-11-29 21:07:20
+ * @LastEditTime: 2024-11-29 21:10:54
  * @FilePath: \undefinedd:\Workspace\LearningDeepLearning\deep_learning_from_scratch_python\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 # 深度学习入门
-本仓库从https://github.com/ZhangXinNan/deep_learning_from_scratch过来
+Source: https://github.com/ZhangXinNan/deep_learning_from_scratch
 解决了MNIST数据集无法访问的问题。
-博客https://blog.csdn.net/likecayon/article/details/139603148?spm=1001.2014.3001.5501记录具体细节。
+博客https://blog.csdn.net/likecayon/article/details/139603148?spm=1001.2014.3001.5501记录了具体细节。
 
 
 ## 文件结构
